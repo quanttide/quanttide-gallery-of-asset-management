@@ -17,3 +17,7 @@
 - [规格类资产](./category/specification.md)：程序型，命名、归纳、生长、落文、精简、检验。
 - [手册类资产](./category/handbook.md)：集合载体，注册、维护、发布。
 - [案例类资产](./category/gallery.md)：程序型，登记、维护、累积。
+
+## 管道
+
+- [管道案例](./pipelines/index.md)：十二条管道的需求、意图、规格与实现，规格附同名 `.yaml`。
