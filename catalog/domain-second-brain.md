@@ -19,7 +19,7 @@
 │   ├── bylaw/ specification/          宪法：章程、规格
 │   ├── handbook/ gallery/             法律：手册、案例
 │   └── tutorial/ essay/               法理：教程、札记
-├── packages/{domain}-toolkit/  Toolkit：工具箱
+├── packages/{domain}-toolkit/  Toolkit：标准库
 ├── apps/{app}/                 Platform：平台
 └── examples/default/           Example：实验室
 ```
@@ -28,7 +28,7 @@
 
 ### 验收
 
-- 目录集合与产物类别对得上，另有工具箱、平台、实验室。
+- 目录集合与产物类别对得上，另有标准库、平台、实验室。
 - 每件资产是独立仓库，父仓库只追踪引用，不直接改子仓库文件。
 - 默认入口与备份出口齐备：context/ 与 archive/。
 - 与已建成的领域第二大脑并排比对，结构一致——跨领域因此可关联分析。

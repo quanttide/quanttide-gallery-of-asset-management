@@ -24,7 +24,7 @@
 |:----|:----|:----|
 | Bylaw 章程 | `quanttide-bylaw-of-{领域英文名}` | quanttide-bylaw-of-document-engineering |
 | Specification 工程标准 | `quanttide-specification-of-{领域英文名}` | quanttide-specification-of-course-development |
-| Toolkit 工具箱 | `quanttide-{领域}-toolkit` | quanttide-crowd-toolkit |
+| Toolkit 标准库 | `quanttide-{领域}-toolkit` | quanttide-crowd-toolkit |
 | Handbook 手册 | `quanttide-handbook-of-{领域英文名}` | quanttide-handbook-of-software-engineering |
 | Gallery 案例 | `quanttide-gallery-of-{领域英文名}` | quanttide-gallery-of-course-development |
 | Platform 平台 | `qt{产品名}`（产品平台）或 `qtcloud-{产品名}`（云平台） | qtcrowd、qtclass；qtcloud-learn、qtcloud-course |
@@ -60,7 +60,7 @@
 ```text
 quanttide-{领域短名}/
 ├── apps/          # Platform 平台资产（qt{产品名} / qtcloud-{产品名}）
-├── packages/      # Toolkit 工具箱资产（quanttide-{领域}-toolkit）
+├── packages/      # Toolkit 标准库资产（quanttide-{领域}-toolkit）
 ├── examples/      # Laboratory 实验室资产（quanttide-laboratory-of-{领域英文名}）
 ├── data/          # 陈述型记忆与默认资产
 │   ├── context/ journal/ profile/ roadmap/ insight/ intention/
