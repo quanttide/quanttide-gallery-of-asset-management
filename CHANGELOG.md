@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- 新增 catalog/root-second-brain.md：根第二大脑——根仓四轴结构，defaults/ 与 domains/ 的两级关系、设计意图与流水线约定
 - 新增 catalog/domain-second-brain.md：领域第二大脑——领域仓的目录骨架、流动规则与已建成的领域清单，自 quanttide-gallery-of-knowledge-work 的 workspaces/ 迁入，首段改为资产目录口径
 - 新增 pipelines/ 十二件管道案例：需求、意图、规格、实现四节，规格附同名 `.yaml` 作形式化表达，自 quanttide-gallery-of-knowledge-work 迁入
 - 新增 category/ 十篇记忆类型资产类别：语境、日志、档案、宣传册、意图、洞察、路线图、规格、手册、案例，自 quanttide-gallery-of-knowledge-work 的 artifacts/ 迁入，标题与首段改为资产口径
@@ -10,6 +11,7 @@
 - 新增 category/platform.md：量潮平台资产类别——Git 仓库与 S3 存储桶的类别、命名与上架规则，自章程仓 contract/ 降级迁入
 
 ### Changed
+- README.md、index.md：目录节补根第二大脑
 - index.md：首页补管道与目录两节，按组织形态、记忆类型、管道、目录四组编排，修正 GitHub 拼写
 - README.md：收录十二份类别索引、管道案例与领域第二大脑
 - index.md：修复 schema/second_brain.md 失效链接，指向第二大脑资产类别

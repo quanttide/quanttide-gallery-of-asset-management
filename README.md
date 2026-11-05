@@ -24,4 +24,5 @@
 
 ## 目录
 
+- [根第二大脑](./catalog/root-second-brain.md)：根仓四轴结构，defaults/ 与 domains/ 的两级关系与设计意图。
 - [领域第二大脑](./catalog/domain-second-brain.md)：领域仓的目录骨架、流动规则与已建成的领域清单。
