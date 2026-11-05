@@ -11,6 +11,7 @@
 - 新增 category/platform.md：量潮平台资产类别——Git 仓库与 S3 存储桶的类别、命名与上架规则，自章程仓 contract/ 降级迁入
 
 ### Changed
+- catalog/root-second-brain.md：行文重排——概述、四轴、入口与分流、设计意图、约定与验收、目录
 - README.md、index.md：目录节补根第二大脑
 - index.md：首页补管道与目录两节，按组织形态、记忆类型、管道、目录四组编排，修正 GitHub 拼写
 - README.md：收录十二份类别索引、管道案例与领域第二大脑
